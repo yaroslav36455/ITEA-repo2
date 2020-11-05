@@ -5,7 +5,8 @@ import java.io.Serializable;
 public class Animal {
 	private int age;
 	private int weightARST;
-	
+	private String name = "Suslik";
+		
 	public Animal() {
 		name = "Suslik";
 		age = 12;
